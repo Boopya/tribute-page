@@ -1,0 +1,65 @@
+#main {
+    font-family: 'Manrope', sans-serif;
+    background-color: #bbd8c6;
+    width: 90%;
+    height: 100%;
+    margin: auto;
+    padding: 10px;
+}
+
+#title {
+    background-color: #ccf6ff;
+    text-align: center;
+    padding: 10px;
+    width: 80%;
+    margin: 30px auto;
+}
+
+#img-div {
+    width: 100%;
+    height: auto;
+}
+
+#image {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+#tribute-info {
+    background-color: white;
+    width: 50%;
+    height: auto;
+    margin: 10px auto;
+    padding: 2.5% 2.5%;
+    text-align: justify;
+}
+
+#tribute-info h4 {
+    text-align: center;
+}
+
+#tribute-info li {
+    margin: 4px 0;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+#more-info {
+    text-align: center;
+}
+
+#more-info a:hover {
+    color: cadetblue;
+}
+
+#tribute-link {
+    font-weight: bold;
+}
